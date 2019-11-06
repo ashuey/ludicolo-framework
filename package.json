@@ -16,5 +16,6 @@
     "objection": "^1.6.11",
     "pluralize": "^8.0.0",
     "redis": "^2.8.0"
-  }
+  },
+  "files": ["lib/**/*"]
 }
