@@ -1,6 +1,6 @@
 {
   "name": "@ashuey/ludicolo-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "dependencies": {
     "@ashuey/ludicolo-container": "^1.0.0",
